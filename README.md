@@ -24,3 +24,6 @@ After training, the model is evaluated using the test dataset. Metrics such as a
 The trained model achieves a satisfactory level of accuracy on the test dataset. The confusion matrix visualizes the model's performance across different color categories.
 ## Model Persistence
 Finally, the trained model is saved to a file named "colormodel_trained_90.h5" for future use.
+## Prediction
+main1.py contains predict_color which uses the above trained model for predicting the color.
+### web application built using streamlit
