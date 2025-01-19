@@ -26,4 +26,4 @@ The trained model achieves a satisfactory level of accuracy on the test dataset.
 Finally, the trained model is saved to a file named "colormodel_trained_90.h5" for future use.
 ## Prediction
 main1.py contains predict_color which uses the above trained model for predicting the color.
-### web application built using streamlit
+### web application built using streamlit (main2.py)
