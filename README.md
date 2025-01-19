@@ -21,7 +21,7 @@ The model is compiled using Categorical Crossentropy loss and the Adam optimizer
 ## Evaluation
 After training, the model is evaluated using the test dataset. Metrics such as accuracy and loss are computed to assess the model's performance. Additionally, a confusion matrix is generated to analyze the model's predictions.
 ## Result
-The trained model achieves a satisfactory level of accuracy on the test dataset. The confusion matrix visualizes the model's performance across different color categories.
+The trained model achieves an accuracy of 88.75% on the test dataset. The confusion matrix visualizes the model's performance across different color categories.
 ## Model Persistence
 Finally, the trained model is saved to a file named "colormodel_trained_90.h5" for future use.
 ## Prediction
